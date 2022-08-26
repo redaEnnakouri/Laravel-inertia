@@ -1,1 +1,1 @@
-# Laravel-inertia
+# Laravel-inertia starter
